@@ -4,8 +4,8 @@
   "apkUrls": [
     "https://github.com/liyifenggit/huiying-hub-releases/releases/download/v1.0.1/huiying-hub-1.0.1.apk"
   ],
-  "sha256": "9a2ed810bef55b08e90d84a0d5c4aa8bbfd2c5a54838fb25ef07bc1538019c47",
-  "size": 306050898,
-  "notes": "首个通过 GitHub 发布的版本：账号密码登录、手机扫码填写、兑换码传送、自动更新、Python 源卡死修复、首页海报焦点修复。",
+  "sha256": "c4567381c097941105f65f340a4a34f19127faf1c46f419265673e6d2da3b7b3",
+  "size": 306050698,
+  "notes": "首个通过 GitHub 发布的版本：账号密码登录、手机扫码填写、兑换码传送、自动更新（支持断点续传）、Python 源卡死修复、首页海报焦点修复。",
   "minSupportedVersionCode": 0
 }
