@@ -1,12 +1,12 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionCode": 4,
+  "versionName": "1.0.3",
   "apkUrls": [
-    "https://liyifeng.synology.me:5443/huiying-hub-1.0.2.apk",
-    "https://github.com/liyifenggit/huiying-hub-releases/releases/download/v1.0.2/huiying-hub-1.0.2.apk"
+    "https://liyifeng.synology.me:5443/huiying-hub-1.0.3.apk",
+    "https://github.com/liyifenggit/huiying-hub-releases/releases/download/v1.0.3/huiying-hub-1.0.3.apk"
   ],
-  "sha256": "b0794f9d7b20f83a666e0fd3e9b2d3618f12eef6f31d385b92a0e1a047de9e9d",
-  "size": 306054694,
-  "notes": "新增：先试用后登录（试用期内无需注册账号）；在文件管理器中点击 .py / .json / .txt / .m3u 等视频源文件即可用汇影HUB 直接导入，支持本地 Python 源；自动更新支持断点续传。",
+  "sha256": "43850d2973440f99caa7a637f2896f941289b04abd4334d4c8a50143d6c5fc0e",
+  "size": 306054762,
+  "notes": "账号服务迁到国内服务器：解决部分地区无法注册、登录的问题；建议所有用户升级。",
   "minSupportedVersionCode": 0
 }
