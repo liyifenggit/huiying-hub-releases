@@ -1,12 +1,12 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
+  "versionCode": 5,
+  "versionName": "1.0.4",
   "apkUrls": [
-    "https://liyifeng.synology.me:5443/huiying-hub-1.0.3.apk",
-    "https://github.com/liyifenggit/huiying-hub-releases/releases/download/v1.0.3/huiying-hub-1.0.3.apk"
+    "https://liyifeng.synology.me:5443/huiying-hub-1.0.4.apk",
+    "https://github.com/liyifenggit/huiying-hub-releases/releases/download/v1.0.4/huiying-hub-1.0.4.apk"
   ],
-  "sha256": "43850d2973440f99caa7a637f2896f941289b04abd4334d4c8a50143d6c5fc0e",
-  "size": 306054762,
-  "notes": "账号服务迁到国内服务器：解决部分地区无法注册、登录的问题；建议所有用户升级。",
+  "sha256": "7dd2e9d5cde7c2307031740eabc2517e5842b3d04e83eb40c0f2220ba0b5a72c",
+  "size": 306059654,
+  "notes": "修复 Emby/Jellyfin 专区、搜索中点击影片没有播放线路的问题",
   "minSupportedVersionCode": 0
 }
