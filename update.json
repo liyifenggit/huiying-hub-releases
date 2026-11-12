@@ -1,12 +1,12 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
+  "versionCode": 6,
+  "versionName": "1.0.5",
   "apkUrls": [
-    "https://liyifeng.synology.me:5443/huiying-hub-1.0.4.apk",
-    "https://github.com/liyifenggit/huiying-hub-releases/releases/download/v1.0.4/huiying-hub-1.0.4.apk"
+    "https://liyifeng.synology.me:5443/huiying-hub-1.0.5.apk",
+    "https://github.com/liyifenggit/huiying-hub-releases/releases/download/v1.0.5/huiying-hub-1.0.5.apk"
   ],
-  "sha256": "7dd2e9d5cde7c2307031740eabc2517e5842b3d04e83eb40c0f2220ba0b5a72c",
-  "size": 306059654,
-  "notes": "修复 Emby/Jellyfin 专区、搜索中点击影片没有播放线路的问题",
+  "sha256": "56a245856b6e3e3835fede22e13ae767624f641c7665de63395d781269629071",
+  "size": 306060478,
+  "notes": "电视端：添加服务器等输入框输入文字后，遥控器上下键可正常移动焦点",
   "minSupportedVersionCode": 0
 }
