@@ -1,11 +1,11 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.0",
+  "versionCode": 12,
+  "versionName": "1.1.1",
   "apkUrls": [
-    "https://liyifeng.synology.me:5443/huiying-hub-1.1.0.apk"
+    "https://liyifeng.synology.me:5443/huiying-hub-1.1.1.apk"
   ],
-  "sha256": "bf3cc6d04be3d87124319ef94822d1cdc9c8cac3f578c317909d88d12b444c25",
-  "size": 306302490,
-  "notes": "- 新增学习解锁功能与答题机制（支持1-6年级古诗词与数学出题、错题温习与时钟防绕过）\n- 电视端遥控器焦点与播放交互优化，退出确认与状态恢复增强\n- 网盘与本地媒体库扫描入库、剧集聚合及元数据刮削稳定性优化",
+  "sha256": "55a793f77e37c8790ae2c24306b7903157679d26564e6b94419e7d1a8e5db0bb",
+  "size": 306709858,
+  "notes": "- 优化 Python 视频源加载机制，分步执行并兼容 __future__ 导入（彻底修复红果短剧等源 SyntaxError 失败）\n- 同步全量学习解锁题库（17,000 道题，覆盖 1-6 年级古诗文、小学数学、少儿英语）\n- 学习解锁设置支持学科自主选考（数学、古诗、英语），错题本与答题界面支持多学科分类展示",
   "minSupportedVersionCode": 0
 }
