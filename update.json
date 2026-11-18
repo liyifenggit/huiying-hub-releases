@@ -1,12 +1,11 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 11,
+  "versionName": "1.1.0",
   "apkUrls": [
-    "https://liyifeng.synology.me:5443/huiying-hub-1.0.5.apk",
-    "https://github.com/liyifenggit/huiying-hub-releases/releases/download/v1.0.5/huiying-hub-1.0.5.apk"
+    "https://liyifeng.synology.me:5443/huiying-hub-1.1.0.apk"
   ],
-  "sha256": "56a245856b6e3e3835fede22e13ae767624f641c7665de63395d781269629071",
-  "size": 306060478,
-  "notes": "电视端：添加服务器等输入框输入文字后，遥控器上下键可正常移动焦点",
+  "sha256": "bf3cc6d04be3d87124319ef94822d1cdc9c8cac3f578c317909d88d12b444c25",
+  "size": 306302490,
+  "notes": "- 新增学习解锁功能与答题机制（支持1-6年级古诗词与数学出题、错题温习与时钟防绕过）\n- 电视端遥控器焦点与播放交互优化，退出确认与状态恢复增强\n- 网盘与本地媒体库扫描入库、剧集聚合及元数据刮削稳定性优化",
   "minSupportedVersionCode": 0
 }
