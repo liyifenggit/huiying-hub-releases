@@ -1,11 +1,11 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1.1",
+  "versionCode": 13,
+  "versionName": "1.1.2",
   "apkUrls": [
-    "https://liyifeng.synology.me:5443/huiying-hub-1.1.1.apk"
+    "https://liyifeng.synology.me:5443/huiying-hub-1.1.2.apk"
   ],
-  "sha256": "55a793f77e37c8790ae2c24306b7903157679d26564e6b94419e7d1a8e5db0bb",
-  "size": 306709858,
-  "notes": "- 优化 Python 视频源加载机制，分步执行并兼容 __future__ 导入（彻底修复红果短剧等源 SyntaxError 失败）\n- 同步全量学习解锁题库（17,000 道题，覆盖 1-6 年级古诗文、小学数学、少儿英语）\n- 学习解锁设置支持学科自主选考（数学、古诗、英语），错题本与答题界面支持多学科分类展示",
+  "sha256": "ccb34d1ed0d94a38b866c1201d56d63199f9b9f84608a421c85636d74c9cfa90",
+  "size": 306740778,
+  "notes": "- 新增【听视频模式】：一键切换纯音频省电播放，支持双通道云端歌词自动刮削（网易云/QQ音乐）、双语逐行同步歌词、点击歌词跳转播放、多端（手机竖屏/横屏/平板分栏/TV遥控）界面自适应\n- 新增【纯音频智能路由】：识别到音频格式（MP3/FLAC/WAV/M4A等）自动切入沉浸式音乐播放界面\n- 优化【Python视频源兼容】：彻底解决红果短剧等现代 Python 爬虫源的 from __future__ 语法解析错误\n- 同步【学习解锁全量题库】：扩展题库与全学科（古诗、数学、英语）题库全面同步",
   "minSupportedVersionCode": 0
 }
